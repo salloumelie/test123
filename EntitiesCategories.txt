@@ -1,0 +1,7 @@
+ID|EntryCategory
+29|Adverse Media
+10|Associated Entity
+14|Enforcement
+1|PEP
+3|Sanction List
+37|SOE
